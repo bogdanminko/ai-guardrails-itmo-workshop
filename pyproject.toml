@@ -10,10 +10,12 @@ dependencies = [
     "hf-transfer>=0.1.9",
     "ipykernel>=7.1.0",
     "jupyter>=1.1.1",
+    "langfuse>=3.12.1",
     "llm-guard>=0.3.16",
     "openai>=2.15.0",
     "pandas>=2.3.3",
     "pip>=25.3",
+    "pydantic-ai-slim[openai]>=1.47.0",
     "python-dotenv>=1.2.1",
 ]
 
